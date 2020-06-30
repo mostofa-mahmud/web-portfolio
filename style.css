@@ -1,0 +1,64 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.name_high1{
+    color: rgb(189, 130, 21);
+}
+.width1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.width1 img{
+    width: 100%;
+}
+.top-banner{
+    border: 1px solid coral;
+    height: 550px;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(136, 56, 56), tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: cornsilk;
+    font-weight: 700;
+}
+.banner2{
+    border: 1px solid coral;
+    height: 550px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.banner3{
+    border: 1px solid coral;
+    height: 400px;
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.exp{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
+#lol{
+    border-left: 7px solid coral;
+    border-image: linear-gradient(180deg, coral, rgb(66, 14, 5));
+    border-image-slice: 1;
+}
+#lol2{
+    border-left: 7px solid coral;
+    border-image: linear-gradient(180deg, blue,rgb(203, 203, 233));
+    border-image-slice: 1;
+}
